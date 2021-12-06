@@ -6,6 +6,7 @@ Link : https://github.com/Pikachu0405/Sentiment-Analysis-with-Deep-Learning-usin
 
 --------------
 
+
 2. Creating-Multi-Task-Models-With-Keras
 
 Link : https://github.com/Pikachu0405/Creating-Multi-Task-Models-With-Keras
@@ -331,6 +332,23 @@ Link : https://github.com/Pikachu0405/Regression---ML
 
 ---------------------------
 
+64. Perform-Sentiment-Analysis-with-scikit-learn
+Link : https://github.com/Pikachu0405/Perform-Sentiment-Analysis-with-scikit-learn
+
+--------
+
+65. Optimize-TensorFlow-Models-For-Deployment-with-TensorRT
+Link : https://github.com/Pikachu0405/Optimize-TensorFlow-Models-For-Deployment-with-TensorRT
+
+--------------
+
+66. Predict-Employee-Turnover-with-scikit-learn
+Link : https://github.com/Pikachu0405/Predict-Employee-Turnover-with-scikit-learn
+
+----------------
+
+67. Machine-Learning-Data-Lifecycle-in-Production
+Link : https://github.com/Pikachu0405/Machine-Learning-Data-Lifecycle-in-Production
 
 
 
